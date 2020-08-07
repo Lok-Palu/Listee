@@ -39,12 +39,12 @@ the record
 
 ## Contributor Checklist
 > Consider some of these paramters when PR is created
-- [] Tests
-- [] Readme documentation
-- [] What has changed section
+- [ ] Tests
+- [ ] Readme documentation
+- [ ] What has changed section
 
 ## Review Checklist
 > Things that can considered when PR is reviewed
-- [] Code reviewed
-- [] Tests reviewed
-- [] Updated the documentation README.md _(if needed)_
+- [ ] Code reviewed
+- [ ] Tests reviewed
+- [ ] Updated the documentation README.md _(if needed)_
